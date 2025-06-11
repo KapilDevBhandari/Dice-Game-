@@ -28,3 +28,13 @@ Google Fonts – Custom typography (Lobster and Indie Flower)
 * Automatic winner declaration
 
 * Minimal, clean UI with cool typography
+
+# 📸 Screenshot
+
+![image](https://github.com/user-attachments/assets/71e4c915-ec40-4ecd-8ba4-aeb20f39a746)
+
+# 🙋‍♂️ Author
+Created by Kapil Dev Bhandari 
+
+Contact ( kapildevbhandari@gmail.com)
+
