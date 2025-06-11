@@ -20,3 +20,11 @@ CSS3 – Styling and layout
 JavaScript – Game logic and DOM manipulation
 
 Google Fonts – Custom typography (Lobster and Indie Flower)
+
+
+# ✨ Features
+* Random dice roll on every refresh
+
+* Automatic winner declaration
+
+* Minimal, clean UI with cool typography
